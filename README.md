@@ -7,7 +7,9 @@ deno run -A npm:create-hono my-frist-app
 ```
 
 ### 参考文献
+
 1. [Qita - Deno+HonoでWebサーバを立てる ~DenoKVを添えて](https://qiita.com/umiushi_1/items/6179ef4d9213af34f97d)
 2. [GitHub - Showichiro/deno-kv-hono-postman-example](https://github.com/Showichiro/deno-kv-hono-postman-example)
 3. [Deno KV QuickStart](https://docs.deno.com/deploy/kv/manual/)
 4. [Deno + honoの始め方](https://hono.dev/docs/getting-started/deno)
+5. [DenoでHonoやReactを使ったテンプレートを作ってみた](https://www.kbaba1001.com/posts/202405171328_deno-hono-react-template/)
